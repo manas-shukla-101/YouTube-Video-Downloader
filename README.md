@@ -21,6 +21,7 @@ A modern, elegant YouTube video downloader with a sleek GUI. Download videos and
 - 💫 Smooth animations and visual effects
 - ⚡ Fast downloads with yt-dlp engine
 - 🛡️ Built-in error handling and user guidance
+- No login required, No ads, just enjoy.
 
 ## 🚀 Quick Start
 
@@ -117,6 +118,7 @@ This tool is for personal use only. Please respect YouTube's terms of service an
 
 ---
 Made with ❤️ by Manas Shukla.
+
 
 
 
