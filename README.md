@@ -8,7 +8,7 @@ A modern, elegant YouTube video downloader with a sleek GUI. Download videos and
 
 ![Click here](https://github.com/manas-shukla-101/YouTube-Video-Downloader/raw/refs/heads/main/YouTube%20Downloader%20Pro.exe) to download.
 
-![App Screenshot](screenshot.png)
+[App Screenshot](screenshot.png)
 
 ## ✨ Features
 
@@ -118,6 +118,7 @@ This tool is for personal use only. Please respect YouTube's terms of service an
 
 ---
 Made with ❤️ by Manas Shukla.
+
 
 
 
