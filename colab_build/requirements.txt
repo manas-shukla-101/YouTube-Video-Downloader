@@ -1,0 +1,4 @@
+kivy
+buildozer
+yt-dlp
+pillow
