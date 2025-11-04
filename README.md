@@ -1,10 +1,12 @@
-# 🎥 YouTube Downloader Pro
+#  YouTube Downloader Pro
 
 ![GitHub](https://img.shields.io/github/license/yourusername/youtube-downloader-pro)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
 
 A modern, elegant YouTube video downloader with a sleek GUI. Download videos and playlists in your preferred quality with just a few clicks! 
+
+[Click here](https://github.com/manas-shukla-101/YouTube-Video-Downloader/raw/refs/heads/main/YouTube%20Downloader%20Pro.exe) to download.
 
 ![App Screenshot](screenshot.png)
 
@@ -19,6 +21,7 @@ A modern, elegant YouTube video downloader with a sleek GUI. Download videos and
 - 💫 Smooth animations and visual effects
 - ⚡ Fast downloads with yt-dlp engine
 - 🛡️ Built-in error handling and user guidance
+- No login required, No ads, just enjoy.
 
 ## 🚀 Quick Start
 
