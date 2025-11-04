@@ -41,10 +41,13 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y \
           git zip unzip openjdk-17-jdk python3-pip autoconf libtool pkg-config \
-          zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev \
+          zlib1g-dev libncurses5-dev libncursesw5-dev cmake libffi-dev \
           libssl-dev libjpeg-dev libwebp-dev ffmpeg libsdl2-dev libsdl2-image-dev \
           libsdl2-mixer-dev libsdl2-ttf-dev libportmidi-dev libswscale-dev libavformat-dev \
-          libavcodec-dev libzstd-dev
+          libavcodec-dev libzstd-dev ncurses-term
+        sudo add-apt-repository universe
+        sudo apt-get update
+        sudo apt-get install -y ncurses-base ncurses-term libncurses5
 
     - name: Configure Buildozer
       run: |
