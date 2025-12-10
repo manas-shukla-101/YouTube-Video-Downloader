@@ -1,6 +1,6 @@
 #  YouTube Downloader Pro
 
-![GitHub](https://img.shields.io/github/license/manas-shukla-101/youtube-downloader-pro)
+![GitHub](https://img.shields.io/github/license/manas-shukla-101/Youtube-Video-Downloader)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
 
